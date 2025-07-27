@@ -21,7 +21,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
     <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
     <!-- Judul halaman -->
-    <title>PT. INDO SULAIMAN MAKMUR | Main Togel Hongkong di Yestogel, Modal Kecil dan Keuntungan Maksimal</title>
+    <title>Senayan Developer Community | Main Togel Hongkong di Yestogel, Modal Kecil dan Keuntungan Maksimal</title>
     <!-- Deskripsi halaman -->  
     <meta name="description" content="Dengan modal kecil, Anda bisa menikmati hasil resmi malam ini dan meraih bonus besar di situs terpercaya Yestogel." />
     <!-- Kata kunci (opsional, walau tidak terlalu dipakai Google) -->  
@@ -31,15 +31,15 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
     <meta name="language" content="Indonesia" />
     <meta name="author" content="Yestogel" />   
     <!-- Open Graph (untuk sosial media preview) -->
-    <meta name="og:url" content="https://indosulaiman.id-apps.my.id/" />
-    <meta name="og:title" content="PT. INDO SULAIMAN MAKMUR | Main Togel Hongkong di Yestogel, Modal Kecil dan Keuntungan Maksimal" />
+    <meta name="og:url" content="https://perpus.id-apps.my.id/" />
+    <meta name="og:title" content="Senayan Developer Community | Main Togel Hongkong di Yestogel, Modal Kecil dan Keuntungan Maksimal" />
     <meta name="og:type" content="product" />
     <meta name="og:description" content="Dengan modal kecil, Anda bisa menikmati hasil resmi malam ini dan meraih bonus besar di situs terpercaya Yestogel." />
     <meta name="og:image" content="https://cdn-amp-bbs.com/img/2025070506.gif" />
     <meta name="google-site-verification" content="-7CICDccpFNFFRNHTZL1Vl-NLQMycVYS3dJy1MRdRmE" />
     <link rel="icon" type="image/x-icon" href="https://cdn-amp-bbs.com/img/img3.png" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
-    <link rel="canonical" href="https://indosulaiman.id-apps.my.id/" />
+    <link rel="canonical" href="https://perpus.id-apps.my.id/" />
     <link rel="amphtml" href="https://matanauniv.ac.id/jaadoo/nanas2/" />
     <!-- start preload -->
     <link rel="preload" href="https://cdn-amp-bbs.com/img/2025070506.gif" as="image/gif" />
@@ -144,7 +144,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
         };
         var dataLayer = window.dataLayer || [];
         var pdpTrackingData =
-            '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://cdn-amp-bbs.com/img/2025070506.gif","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"PT. INDO SULAIMAN MAKMUR | Main Togel Hongkong di Yestogel, Modal Kecil dan Keuntungan Maksimal","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.777.000"}';
+            '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://cdn-amp-bbs.com/img/2025070506.gif","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"Senayan Developer Community | Main Togel Hongkong di Yestogel, Modal Kecil dan Keuntungan Maksimal","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.777.000"}';
         try {
             pdpTrackingData = JSON.parse(pdpTrackingData);
             pdpTrackingData.v_voya = false;
@@ -771,19 +771,19 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
       {
         "@context": "https://schema.org/",
         "@type": "Product",
-        "name": "PT. INDO SULAIMAN MAKMUR | Main Togel Hongkong di Yestogel, Modal Kecil dan Keuntungan Maksimal",
+        "name": "Senayan Developer Community | Main Togel Hongkong di Yestogel, Modal Kecil dan Keuntungan Maksimal",
         "image": "https://cdn-amp-bbs.com/img/2025070506.gif",
         "description": "Dengan modal kecil, Anda bisa menikmati hasil resmi malam ini dan meraih bonus besar di situs terpercaya Yestogel.
 
 ",
-        "url": "https://indosulaiman.id-apps.my.id/",
+        "url": "https://perpus.id-apps.my.id/",
         "brand": {
           "@type": "Brand",
           "name": "Yestogel"
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://indosulaiman.id-apps.my.id/",
+          "url": "https://perpus.id-apps.my.id/",
           "price": "777",
           "priceCurrency": "IDR",
           "priceValidUntil": "2025-01-23",
@@ -791,7 +791,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
           "hasMerchantReturnPolicy": {
             "@type": "MerchantReturnPolicy",
             "refundType": "http://schema.org/FullRefund",
-            "merchantReturnLink": "https://indosulaiman.id-apps.my.id/",
+            "merchantReturnLink": "https://perpus.id-apps.my.id/",
             "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
             "merchantReturnDays": 60,
             "returnMethod": "https://schema.org/ReturnByMail",
@@ -867,27 +867,27 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
             "@type": "ListItem", 
             "position": 1, 
             "name": "DEMO PRAGMATIC",
-            "item": "https://indosulaiman.id-apps.my.id/"  
+            "item": "https://perpus.id-apps.my.id/"  
           },{
             "@type": "ListItem", 
             "position": 2, 
             "name": "DEMO SLOT 4D",
-            "item": "https://indosulaiman.id-apps.my.id/"  
+            "item": "https://perpus.id-apps.my.id/"  
           },{
             "@type": "ListItem", 
             "position": 3, 
             "name": "DEMO SLOT & TOGEL",
-            "item": "https://indosulaiman.id-apps.my.id/"  
+            "item": "https://perpus.id-apps.my.id/"  
           },{
             "@type": "ListItem", 
             "position": 4, 
             "name": "DEMO TOGEL 4D",
-            "item": "https://indosulaiman.id-apps.my.id/"  
+            "item": "https://perpus.id-apps.my.id/"  
           },{
             "@type": "ListItem", 
             "position": 5, 
             "name": "TESTIMONI",
-            "item": "https://indosulaiman.id-apps.my.id/"  
+            "item": "https://perpus.id-apps.my.id/"  
           }]
         }
         </script>
@@ -1017,7 +1017,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                     </a>
                                 </div>
                                 <div class="top-links-item" id="topActionFeedback">
-                                    <a class="highlight" target="_blank" href="https://indosulaiman.id-apps.my.id/"
+                                    <a class="highlight" target="_blank" href="https://perpus.id-apps.my.id/"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">DEMO PRAGMATIC</a>
                                 </div>
                                 <div class="top-links-item orange" id="topActionDownload"
@@ -1073,10 +1073,10 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                                     </div>
                                                     <div class="error-message" id="topActionDownloadErrorMsg"></div>
                                                     <div class="app-stores">
-                                                        <a href="https://indosulaiman.id-apps.my.id/" class="store-link">
+                                                        <a href="https://perpus.id-apps.my.id/" class="store-link">
                                                             <i class="app-apple"></i>
                                                         </a>
-                                                        <a href="https://indosulaiman.id-apps.my.id/" class="store-link">
+                                                        <a href="https://perpus.id-apps.my.id/" class="store-link">
                                                             <i class="app-google"></i>
                                                         </a>
                                                     </div>
@@ -1086,7 +1086,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                     </div>
                                 </div>
                                 <div class="top-links-item" id="topActionSell">
-                                    <a class="cyan" href="https://indosulaiman.id-apps.my.id/"
+                                    <a class="cyan" href="https://perpus.id-apps.my.id/"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">DEMO SLOT & TOGEL</a>
                                 </div>
                                 <div class="top-links-item" id="topActionCustomCare"
@@ -1229,7 +1229,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                         <div class="lzd-logo-bar">
                             <div class="logo-bar-content header-content">
                                 <div class="lzd-logo-content">
-                                    <a href="https://indosulaiman.id-apps.my.id/" data-spm="dhome"><img
+                                    <a href="https://perpus.id-apps.my.id/" data-spm="dhome"><img
                                             src="https://cdn-amp-bbs.com/img/img3.png"
                                             alt="deposit saldo pragmatic" /></a>
                                 </div>
@@ -1247,7 +1247,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                             data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                             <div class="lzd-site-menu-nav-container">
                                                 <div class="lzd-site-menu-nav-category">
-                                                    <a href="https://indosulaiman.id-apps.my.id/">
+                                                    <a href="https://perpus.id-apps.my.id/">
                                                         <span class="lzd-site-menu-nav-category-text">KATEGORI</span>
                                                     </a>
                                                     <div class="lzd-site-menu-nav-menu">
@@ -2564,7 +2564,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                                     </div>
                                                 </div>
                                                 <nav class="lzd-menu-labels" data-spm="menu">
-                                                    <a class="lzd-menu-labels-item" href="https://indosulaiman.id-apps.my.id/">
+                                                    <a class="lzd-menu-labels-item" href="https://perpus.id-apps.my.id/">
                                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                             <img alt="DEMO TOGEL 4D" class="lzd-site-nav-menu-iconfont-img"
                                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -2572,7 +2572,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                                         <span class="lzd-menu-labels-item-text">DEMO TOGEL 4D</span>
                                                     </a>
-                                                    <a class="lzd-menu-labels-item" href="https://indosulaiman.id-apps.my.id/">
+                                                    <a class="lzd-menu-labels-item" href="https://perpus.id-apps.my.id/">
                                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                             <img alt="TESTIMONI" class="lzd-site-nav-menu-iconfont-img"
                                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -2580,7 +2580,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                                         <span class="lzd-menu-labels-item-text">TESTIMONI</span>
                                                     </a>
-                                                    <a class="lzd-menu-labels-item" href="https://indosulaiman.id-apps.my.id/">
+                                                    <a class="lzd-menu-labels-item" href="https://perpus.id-apps.my.id/">
                                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                             <img alt="DEPOSIT SALDO" class="lzd-site-nav-menu-iconfont-img"
                                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -2588,7 +2588,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                                         <span class="lzd-menu-labels-item-text">DEPOSIT SALDO</span>
                                                     </a>
-                                                    <a class="lzd-menu-labels-item" href="https://indosulaiman.id-apps.my.id/">
+                                                    <a class="lzd-menu-labels-item" href="https://perpus.id-apps.my.id/">
                                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                             <img alt="WITHDRAW" class="lzd-site-nav-menu-iconfont-img"
                                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -2602,7 +2602,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                     </div>
                                 </div>
                                 <div class="lzd-nav-cart">
-                                    <a href="https://indosulaiman.id-apps.my.id/" data-spm="dcart"><span class="cart-icon"></span>
+                                    <a href="https://perpus.id-apps.my.id/" data-spm="dcart"><span class="cart-icon"></span>
                                         <span class="cart-num" id="topActionCartNumber"></span></a>
                                 </div>
                                 <div class="lzd-header-banner" id="topActionLiveUpBanner"></div>
@@ -2616,7 +2616,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                             data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                             <div class="lzd-site-menu-nav-container">
                                 <div class="lzd-site-menu-nav-category">
-                                    <a href="https://indosulaiman.id-apps.my.id/">
+                                    <a href="https://perpus.id-apps.my.id/">
                                         <span class="lzd-site-menu-nav-category-text">KATEGORI</span>
                                     </a>
                                     <div class="lzd-site-menu-nav-menu">
@@ -3705,7 +3705,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                     </div>
                                 </div>
                                 <nav class="lzd-menu-labels" data-spm="menu">
-                                    <a class="lzd-menu-labels-item" href="https://indosulaiman.id-apps.my.id/">
+                                    <a class="lzd-menu-labels-item" href="https://perpus.id-apps.my.id/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="DEMO TOGEL 4D" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -3713,7 +3713,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                         <span class="lzd-menu-labels-item-text">DEMO TOGEL 4D</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://indosulaiman.id-apps.my.id/">
+                                    <a class="lzd-menu-labels-item" href="https://perpus.id-apps.my.id/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="TESTIMONI" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -3721,7 +3721,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                         <span class="lzd-menu-labels-item-text">TESTIMONI</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://indosulaiman.id-apps.my.id/">
+                                    <a class="lzd-menu-labels-item" href="https://perpus.id-apps.my.id/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="DEPOSIT SALDO" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -3729,7 +3729,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                         <span class="lzd-menu-labels-item-text">DEPOSIT SALDO</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://indosulaiman.id-apps.my.id/">
+                                    <a class="lzd-menu-labels-item" href="https://perpus.id-apps.my.id/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="WITHDRAW" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -4090,7 +4090,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                             <div id="module_product_title_1" class="pdp-block module">
                                 <div class="pdp-product-title">
                                     <div class="pdp-mod-product-badge-wrapper">
-                                        <h1 class="pdp-mod-product-badge-title">PT. INDO SULAIMAN MAKMUR | Main Togel Hongkong di Yestogel, Modal Kecil dan Keuntungan Maksimal</h1>
+                                        <h1 class="pdp-mod-product-badge-title">Senayan Developer Community | Main Togel Hongkong di Yestogel, Modal Kecil dan Keuntungan Maksimal</h1>
                                         <div class="n-columns-2">
                                             <a href="https://www.yestogel.cc/id-id/auth/signup?aff=mjQnwHoy" rel="nofollow noreferrer"
                                                 class="login">LOGIN</a>
@@ -4139,7 +4139,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                     <span class="pdp-product-brand__name">Merek<!-- -->:<!-- -->
                                     </span>
                                     <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link"
-                                        target="_self" href="https://indosulaiman.id-apps.my.id/">Yestogel</a>
+                                        target="_self" href="https://perpus.id-apps.my.id/">Yestogel</a>
                                     <div class="pdp-product-brand__divider"></div>
                                 </div>
                             </div>
@@ -4236,7 +4236,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                     color: #0099ff;
                                 }
                             </style>
-                            <p>PT. INDO SULAIMAN MAKMUR | Main Togel Hongkong di Yestogel, Modal Kecil dan Keuntungan Maksimal</p>
+                            <p>Senayan Developer Community | Main Togel Hongkong di Yestogel, Modal Kecil dan Keuntungan Maksimal</p>
                 <h2>🎮 Pengalaman Bermain dan Kemudahan Akses</h2><p>Yestogel memberikan pengalaman bermain dengan lancar di berbagai perangkat 💻📱 berkat teknologi modern ⚙️, sehingga aplikasi tetap ringan 🌬️ dan memberikan kemudahan akses lewat website 🌐.</p><h2>⭐ Fitur Unggulan Yestogel</h2><p>Fitur keamanan data 🔒 dan lisensi resmi 🎫 sebagai penyedia situs judi online terbaik ✨, memberikan bonus melimpah 🎁 serta sistem penarikan dana tanpa potongan dan tanpa delay 💸⚡ menjadi daya tarik utama para pemain 🧑‍💻 sehingga nyaman dan bersemangat mencapai kemenangan 🏆.</p><h2>👥 Memiliki Komunitas Pemain Aktif</h2><p>Komunitas Yestogel di Indonesia 🇮🇩 sangat aktif dalam berbagi strategi 📊 dan pengalaman, memperkuat ikatan sosial 🤝 sekaligus meningkatkan skill strategi bermain 🎯.</p><h2>🎭 Membantu Memberikan Hiburan Lokal dengan Digital</h2><p>Kehadiran Yestogel turut memperkaya pilihan hiburan di Indonesia 🎉, memberi warna baru dalam gaya hidup masyarakat 🌈 dan keseruan saat bermain yang kian digital dan dinamis 🔄🕹️.</p>
                             <div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller">
                                 <div id="module_seller_delivery" class="pdp-block module">
@@ -4250,7 +4250,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                     <div class="seller-container" data-spm="seller">
                                         <div class="seller-name">
                                             <div class="seller-name__wrapper">
-                                                <div class="seller-name__title">2025 <a href="https://indosulaiman.id-apps.my.id/">@ JD_SQUAD SEO</a> </div>
+                                                <div class="seller-name__title">2025 <a href="https://perpus.id-apps.my.id/">@ JD_SQUAD SEO</a> </div>
                                                 <div class="seller-name__detail" data-spm="seller">
                                                     <a
                                                         class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a>
